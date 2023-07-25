@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Another Note
-This is the code, and you can straightly using it
+This is the code, and you can straightly using it, cause i havent use npm run build here.
 
 ## Available Scripts
 
